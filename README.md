@@ -1,2 +1,2 @@
 # hyf-javascript1
-javascript files
+Hack Your Future repository that contains the course's files for JavaScript
